@@ -1,0 +1,120 @@
+body{
+    background-color: rgb(234, 169, 103);
+}
+#nav{
+    background-color: rgb(234, 169, 103);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 50px;
+}
+li{
+    list-style-type: none;
+}
+.text:hover{
+    color: brown;
+
+}
+.text{
+    text-decoration: none;
+}
+#home{
+    font-size: larger;
+}
+#welcome{
+    color: rgb(226, 159, 43);
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    padding: 320px;
+    margin: 20px;
+    border-radius: 20px;
+background-color: blanchedalmond;
+border: 20px
+height: 500px;
+}
+#maroon{
+    color: rgb(200, 54, 54);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#about{
+    
+    text-align: center;
+    margin: 20px;
+    border-radius: 20px;
+    border: 20px pinK;
+    padding: 320px;
+    
+    background-color:rgba(140, 54, 12, 0.877);
+}
+#skill{
+    text-align: center;
+    margin: 20px;
+    border-radius: 20px;
+    border: 20px rgb(222, 147, 35);
+    padding: 320px;
+    background-color: rgb(176, 98, 41);
+    
+}
+#edu{
+    
+    text-align: center;
+    margin: 20px;
+    border-radius: 20px;
+    border: 20px pink;
+    padding: 320px;
+    background-color: rgb(205, 131, 11);
+}
+#contact{
+    text-align: center;
+    margin: 20px;
+    border-radius: 20px;
+    border: 20px ivory;
+    padding: 100px;
+    background-color: rgb(190, 140, 47);
+}
+#ff{
+    font-size: larger;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+
+#yellow{
+
+    color: rgb(213, 149, 84);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+#blue{
+    text-align: center;
+
+}
+#ff{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
